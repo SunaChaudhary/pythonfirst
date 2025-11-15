@@ -1,0 +1,5 @@
+print("I am Suna")
+print ("I am from Bardiya,Nepal")
+print("I recently completted my bachelors degree in Computer Engineering.")
+print("I completed my plus two from Holyland Secondary School, Neplalgunj Banke")
+print("my family's continuous support and love means a lot for me")
