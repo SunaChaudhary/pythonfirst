@@ -3,6 +3,7 @@ num2=10.3 #float
 name="Suna Chaudhary" #string
 names=['Suna','Dhanraj','Sushma'] #list
 salary=[1000.2,2000,30000]
+names[1]='Dhanraj Woad'
 
 print(type(num1)) #print type of num1 variable
 print(type(num2)) #print type of num2 variable
