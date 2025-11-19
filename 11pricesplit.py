@@ -3,4 +3,4 @@ persons=int(input(print("Enter total number of person:")))
 
 individualPrice=totalPrice/persons
 
-print("Each person need to pay {individualPrice}")
+print("Each person need to pay {individualPrice} amount.")
