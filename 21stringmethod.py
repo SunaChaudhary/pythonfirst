@@ -17,3 +17,6 @@ names="Suna, Sushma, Ram"
 list=names.split(",")
 print(list)
 
+for n in list: #for printing each individul name in list
+    print(n)
+
