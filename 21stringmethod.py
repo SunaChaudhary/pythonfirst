@@ -6,3 +6,7 @@ name= input("Enter your name:")
 
 #String method for capitalize first letter of each word of a string
 print(name.title())
+print(name.strip())
+
+Name= "Suna chaudhary Suna"
+print(Name.replace("Suna","Sunu")) #for replace word of a given sequence
