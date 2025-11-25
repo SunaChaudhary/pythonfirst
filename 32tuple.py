@@ -13,4 +13,6 @@ even_numbers=(2,4,6)
 all_numbers=odd_numbers+even_numbers
 print(f"The combined Tuple is:{all_numbers}")
 
+print(len(all_numbers))
+
 
